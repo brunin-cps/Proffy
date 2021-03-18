@@ -1,4 +1,4 @@
-[](https://github.com/brunin-cps/Proffy/blob/main/telainicial.png)
+![](https://github.com/brunin-cps/Proffy/blob/main/telainicial.png)
 
 # Proffy
 This project was offered in nlw2 by [Rocketseat](https://rocketseat.com.br/) with the purpouse of teach react and node. Proffy is a fictional service that allows teachers to offer lectures to students who are searching for online lessons.
